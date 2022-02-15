@@ -2,7 +2,7 @@
 # Assignment 3: Skittles 175
 # 
 # Author: Amrit Aujla
-# Collaborators/References: lecture slides and previous labs. TA Jack Bazin helped with playSkittle for SkittleGame class
+# Collaborators/References: lecture slides and previous labs from CMPUT 175. TA Jack Bazin helped with playSkittle for SkittleGame class
 #----------------------------------------------------
 
 class Skittle:
